@@ -1,10 +1,25 @@
 
+# Digital Marketplace Fraudulent Customer Classification Detection Model 
 
-# Data
+## 1. Business Problem
 
-Data is at consumer level
+## 2. Data Understanding
 
-Email Data:
-email_domain_tld_label = final segment of an email address
+## 3. Project Objective
 
-john.doe@example.com: example is the second-level domain (SLD) and .com is the TLD.
+## 4. Methods
+
+### 4A. Exploratory Data Analysis
+
+### 4B. Data Cleaning and Preparation
+
+### 4C. Feature Engineering
+
+### 4D. Feature Selection
+
+### 4E. Model Selection and Hyperparameter Tuning
+
+### 4F. Evaluation 
+
+## 5.Incrementality Test 
+
